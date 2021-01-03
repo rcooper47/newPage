@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hello and Welcome!
 
-You can use the [editor on GitHub](https://github.com/rcooper47/newPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ryan Cooper, and this is my (temporary landing page for portfolio, resume, and contact information!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I used Github Pages to build this.
 
 ### Markdown
 
