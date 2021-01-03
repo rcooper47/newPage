@@ -1,6 +1,6 @@
 ## Hello and Welcome!
 
-My name is Ryan Cooper, and this is my (temporary landing page for portfolio, resume, and contact information!
+My name is Ryan Cooper, and this is my (temporary) landing page for portfolio, resume, and contact information!
 
 I used Github Pages to build this.
 
